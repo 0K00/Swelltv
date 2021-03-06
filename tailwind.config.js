@@ -1,5 +1,4 @@
 module.exports = {
-	purge: ['./pages/**/*.{js,ts,jsx,tsx}', './compoments/**/*.{js,ts,jsx,tsx}'],
 	theme: {
 		extend: {
 			fontFamily: {
