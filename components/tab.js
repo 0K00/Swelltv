@@ -43,7 +43,7 @@ const Tabs = ({ router }) => {
 							id="AhrkaaStream"
 						>
 							<iframe
-								src="https://player.twitch.tv/?channel=ahrkaa&parent=https://swell-tv.vercel.app/"
+								src="https://player.twitch.tv/?channel=ahrkaa&parent=swelle-0k00.vercel.app"
 								parent="https://swell-tv.vercel.app/"
 								height="100%"
 								width="100%"
@@ -63,7 +63,7 @@ const Tabs = ({ router }) => {
 							id="AhrkaaStream"
 						>
 							<iframe
-								src="https://player.twitch.tv/?channel=lunath_&parent=https://swell-tv.vercel.app/"
+								src="https://player.twitch.tv/?channel=lunath_&parent=swelle-0k00.vercel.app"
 								parent="https://swell-tv.vercel.app/"
 								height="100%"
 								width="100%"
@@ -83,7 +83,7 @@ const Tabs = ({ router }) => {
 							id="AhrkaaStream"
 						>
 							<iframe
-								src="https://player.twitch.tv/?channel=inscience_&parent=https://swell-tv.vercel.app/"
+								src="https://player.twitch.tv/?channel=inscience_&parent=swelle-0k00.vercel.app"
 								parent="https://swell-tv.vercel.app/"
 								height="100%"
 								width="100%"
