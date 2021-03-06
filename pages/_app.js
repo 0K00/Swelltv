@@ -1,7 +1,8 @@
-import '../styles/globals.css'
+import 'tailwindcss/tailwind.css';
+import '../styles/twitch.css';
 
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+function Swell({ Component, pageProps }) {
+	return <Component {...pageProps} />;
 }
 
-export default MyApp
+export default Swell;

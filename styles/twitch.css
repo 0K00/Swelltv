@@ -1,0 +1,5 @@
+.twitch::after {
+	content: '';
+	display: block;
+	padding-bottom: 56.5%;
+}
